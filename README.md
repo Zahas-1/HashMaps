@@ -15,3 +15,9 @@ Provides methods to print keys, keys containing specific text, and values associ
 
 Program.java: 
 Illustrates printing values stored in a HashMap and printing values whose keys contain specific text, using a Book class to represent book information.
+
+DictonaryOfManyTranslations.java:
+Demnstrates using a HashMap with an ArrayList passed as a parameter and manipulating the HashMap.
+
+SimpleData.java:
+Shows the use of overriding the HashCode and equals method to allow comparing a custom class.
