@@ -21,3 +21,9 @@ Demnstrates using a HashMap with an ArrayList passed as a parameter and manipula
 
 SimpleData.java:
 Shows the use of overriding the HashCode and equals method to allow comparing a custom class.
+
+VehicleRegistry:
+Pairs owners with license plates and uses arraylists to allow multiple cars to a single owners.
+
+StorageFacility:
+Demonstrates adding a container with an ArrayList to track items stored in the container.
